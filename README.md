@@ -1,4 +1,4 @@
-## Simplr Load Balancer
+## Simple Load Balancer
 
 Simple LB is the simplest Load Balancer ever created.
 
